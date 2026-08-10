@@ -1,0 +1,8 @@
+name: ThemisSkyBlock
+version: 1.0
+main: com.lyano.ovh.ThemisSkyBlock
+commands:
+  sb:
+    description: Main SkyBlock command
+    usage: /sb
+    aliases: [themis]
