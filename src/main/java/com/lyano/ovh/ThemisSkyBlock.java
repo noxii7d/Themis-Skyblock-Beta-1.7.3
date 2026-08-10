@@ -55,7 +55,7 @@ public class ThemisSkyBlock extends JavaPlugin {
         Player player = (Player) sender;
         if (args.length == 0) {
             player.sendMessage("--- ThemisSkyBlock Commands ---");
-            player.sendMessage("/sb create - Create a random island in the custom dimension");
+            player.sendMessage("/sb create - Create island");
             player.sendMessage("/sb home - Teleport to your island");
             player.sendMessage("/sb visit <player> - Visit someone else's island");
             player.sendMessage("/sb add <player> - Add a friend to your island");
